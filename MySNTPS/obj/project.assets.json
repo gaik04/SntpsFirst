@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Raj\\Practice\\Core\\MySNTPS\\MySNTPS\\MySNTPS.csproj",
+      "projectUniqueName": "D:\\Raj\\Practice\\Core\\SntpsFirst\\MySNTPS\\MySNTPS.csproj",
       "projectName": "MySNTPS",
-      "projectPath": "D:\\Raj\\Practice\\Core\\MySNTPS\\MySNTPS\\MySNTPS.csproj",
+      "projectPath": "D:\\Raj\\Practice\\Core\\SntpsFirst\\MySNTPS\\MySNTPS.csproj",
       "packagesPath": "C:\\Users\\gaik04\\.nuget\\packages\\",
-      "outputPath": "D:\\Raj\\Practice\\Core\\MySNTPS\\MySNTPS\\obj\\",
+      "outputPath": "D:\\Raj\\Practice\\Core\\SntpsFirst\\MySNTPS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
